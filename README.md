@@ -1,6 +1,6 @@
 # 👨‍💻 Hello, I'm Nahom 👋
 
-Welcome to my GitHub profile! I'm a **C#** enthusiast, a passionate **system development student**, and a technology lover. I'm 22 years old, and I'm currently studying to deepen my skills and grow as a developer. 🚀
+Welcome to my GitHub profile! I'm a **C#** enthusiast, a passionate **system development student**, and a technology lover. I'm 23 years old, and I'm currently studying to deepen my skills and grow as a developer. 🚀
 
 ## 🚀 About Me
 - 🎓 **System Development Student** focused on **C#** and **.NET**
