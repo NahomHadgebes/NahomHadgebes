@@ -58,7 +58,7 @@ I mainly work with the following **.NET** technologies and tools:
 - 📧 Email: Hadgebesnahom@gmail.com
 
 ## 🧑‍💻 Let's connect and build something awesome together! 🤝
-Feel free to check out my repositories, contribute to open-source projects, and contact me if you'd like to collaborate or discuss technology. 🌱💡
+Feel free to check out my repositories and contact me if you'd like to collaborate or discuss technology. 🌱💡
 
 
 
